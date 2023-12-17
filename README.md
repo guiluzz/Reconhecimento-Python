@@ -13,7 +13,8 @@
 
 ### Antes
 ![Exemplo 1](https://github.com/guiluzz/Reconhecimento-Python/blob/main/Antes/desmatamento1.png)
-![Exemplo 2](https://github.com/guiluzz/Reconhecimento-Python/blob/main/Antes/desmatamento3.png)
+![Exemplo 2](https://github.com/guiluzz/Reconhecimento-Python/blob/main/Antes/desmatamento2.png)
 
 ### Depois
-![](https://github.com/guiluzz/)
+![Exemplo 1](https://github.com/guiluzz/Reconhecimento-Python/blob/main/Depois/depois%201.png)
+![Exemplo 2](https://github.com/guiluzz/Reconhecimento-Python/blob/main/Depois/depois%202.png)
