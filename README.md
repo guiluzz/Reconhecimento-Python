@@ -6,13 +6,13 @@
 - Para o desenvolvimento do código foram utilizadas as bibliotecas cv2 e numpy.
 - As imagens pré estabelecidas foram armazenadas em um diretório específico onde o código consegue identificar através da menção a imagem. Exemplo: "desmatamento1.png"
 - A paritr disso, o código aplica os filtros de suavização, realce, detecção de bordas, detecção de linhas e contornos para definir a área a ser destacada ✅.
-- Os arquivos principais do projetos encontram-se na pasta !["src"](https://github.com/guiluzz/GameQuiz-Java/tree/main/src)
+- Os arquivos principais do projetos encontram-se na pasta !["Antes"](https://github.com/guiluzz/Reconhecimento-Python/main/Antes)
   
 ## Visualização do resultado 👀
 - Abaixo estou deixando um print de como ficou o resultado do antes da imagem ser identificada pelo código e o depois da interpretação do programa.
 
 ### Antes
-![](https://github.com/guiluzz/)
+![Desmatamento 1](https://github.com/guiluzz/Reconhecimento-Python/main/Antes/desmatamento1.png)
 
 ### Depois
 ![](https://github.com/guiluzz/)
